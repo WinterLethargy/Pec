@@ -1,0 +1,9 @@
+{
+  "id": 987,
+  "name": "Oscar",
+  "address": {
+    "city": "Texas",
+    "street": "Winner",
+    "building": 77
+  }
+}
